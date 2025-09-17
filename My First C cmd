@@ -1,0 +1,7 @@
+#include<stdio.h>
+    void main()
+	{
+	clrscr();
+	printf("I am Ahmed Farooq\nI am the 1st semester student of Computer Software Engineering at UET Mardan\nI have started my journey on 8th of September 2025 and it end in 2029\nIf any Seniors or Experts are Seeing this then I am looking after you for guidance\nTHANKYOU");
+	getch();
+	}
